@@ -1,0 +1,4 @@
+PROGRAM ejemplo3
+INTEGER A
+A == 3
+END

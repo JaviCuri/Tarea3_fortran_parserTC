@@ -1,0 +1,4 @@
+PROGRAM ejemplo4
+REAL 1X
+X = 2
+END
